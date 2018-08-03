@@ -7,4 +7,3 @@ cccc
 ffff
 eeee
 rrrr
-yyy
