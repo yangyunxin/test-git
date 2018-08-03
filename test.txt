@@ -2,8 +2,4 @@ ddd
 dd
 aaa
 sss
-bbbbb
-cccc
-ffff
-eeee
 rrrr
